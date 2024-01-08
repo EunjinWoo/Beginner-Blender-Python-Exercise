@@ -44,3 +44,4 @@ cube.keyframe_insert("location", frame=last_frame)
 # cube.location.z = 3
 # tab -> info given written
 # cube.keyframe_insert("location", frame=60)
+
